@@ -1,0 +1,74 @@
+<resources>
+    <!-- The app is bilingual on screen: every label shows Chinese with English beside or below it. -->
+    <string name="app_name">三视图 ThreeViews</string>
+
+    <!-- Part library -->
+    <string name="library_title">零件库</string>
+    <string name="library_title_en">Parts</string>
+    <string name="library_count">%1$d 个组合体 · %1$d solids</string>
+    <string name="library_no_summary">暂无结构说明</string>
+    <string name="library_no_summary_en">No description yet</string>
+    <string name="difficulty_easy">易</string>
+    <string name="difficulty_easy_en">Easy</string>
+    <string name="difficulty_medium">中</string>
+    <string name="difficulty_medium_en">Medium</string>
+    <string name="difficulty_hard">难</string>
+    <string name="difficulty_hard_en">Hard</string>
+    <string name="difficulty_unknown">—</string>
+    <string name="cd_selected_part">当前零件 Current part</string>
+
+    <!-- Sheet -->
+    <string name="view_front">主视图</string>
+    <string name="view_front_en">Front view</string>
+    <string name="view_top">俯视图</string>
+    <string name="view_top_en">Top view</string>
+    <string name="view_left">左视图</string>
+    <string name="view_left_en">Left view</string>
+    <string name="cd_focus_view">只看%1$s Show only the %2$s</string>
+    <string name="rule_length">长对正 Lengths align</string>
+    <string name="rule_height">高平齐 Heights level</string>
+    <string name="rule_width">宽相等 Widths equal</string>
+    <string name="title_name">名称 Name</string>
+    <string name="title_scale">比例 Scale</string>
+    <string name="title_scale_value">1:1</string>
+    <string name="title_number">图号 No.</string>
+    <string name="title_number_value">TV-%1$02d</string>
+    <string name="title_unit">单位 Unit</string>
+    <string name="title_unit_value">mm</string>
+    <string name="title_first_angle">第一角画法</string>
+    <string name="title_first_angle_en">First-angle</string>
+    <string name="sheet_loading">正在计算视图… Computing the views…</string>
+    <string name="sheet_failed">这个零件的视图没有算出来</string>
+    <string name="sheet_failed_en">The views of this part could not be computed</string>
+    <string name="retry">重试</string>
+    <string name="retry_en">Retry</string>
+    <string name="guides">对齐线</string>
+    <string name="guides_en">Guides</string>
+
+    <!-- Projection box toolbar -->
+    <string name="focus_all">全部</string>
+    <string name="focus_all_en">All</string>
+    <string name="focus_front">主视</string>
+    <string name="focus_front_en">Front</string>
+    <string name="focus_top">俯视</string>
+    <string name="focus_top_en">Top</string>
+    <string name="focus_left">左视</string>
+    <string name="focus_left_en">Left</string>
+    <string name="unfold">展开</string>
+    <string name="unfold_en">Unfold</string>
+    <string name="rays">投影线</string>
+    <string name="rays_en">Rays</string>
+    <string name="hidden_lines">虚线</string>
+    <string name="hidden_lines_en">Hidden</string>
+    <string name="reset_view">复位</string>
+    <string name="reset_view_en">Reset</string>
+    <string name="window_library">零件库</string>
+    <string name="window_library_en">Parts</string>
+    <string name="window_sheet">图纸</string>
+    <string name="window_sheet_en">Sheet</string>
+
+    <!-- Name tags on the projection planes -->
+    <string name="plane_front">V 主视图 Front</string>
+    <string name="plane_top">H 俯视图 Top</string>
+    <string name="plane_left">W 左视图 Left</string>
+</resources>
